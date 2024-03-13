@@ -51,7 +51,7 @@ To set up the project locally, follow these steps:
 3. **Clone the Repository**:
    - Clone this repository to your local machine using Git:
      ```bash
-     git clone https://github.com/your_username/your_repository.git
+     git clone https://github.com/VamsiTanneru/AirlineReviewsSentimentAnalysis.git
      ```
 
 4. **Run the Code**:
