@@ -3,11 +3,11 @@
 ### Table of Contents
 - [Business Understanding](#business-understanding)
 - [Data Understanding](#data-understanding)
-- [Screenshots of Visualizations/Results](#screenshots-of-visualizationsresults)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Research Questions](#research-questions)
 - [Approach](#approach)
+- [Screenshots of Visualizations/Results](#screenshots-of-visualizationsresults)
 
 ## Business Understanding
 The Airlines Reviews Sentiment Analysis project aims to analyze customer satisfaction across various aspects of airline services. By examining sentiment scores derived from customer reviews, the project seeks to identify areas of improvement for airlines to enhance passenger experience and satisfaction.
