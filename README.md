@@ -65,9 +65,11 @@ To set up the project locally, follow these steps:
    - Explore the Tableau visualizations and Python scripts to understand the project's analysis and insights.
 
 ## Research Questions
-1. How do customers rate different aspects of airline services such as seat comfort, in-flight entertainment, food and beverages, cabin staff service, Wi-Fi connectivity, and ground services?
-2. Are there any significant differences in satisfaction levels between domestic and international flights across various service aspects?
-3. Which airlines have the lowest satisfaction scores in specific service categories, and what recommendations can be provided to improve their services?
+1. How do the sentiment scores generated from Vader and TextBlob change over the years among domestic and international flights? What can we make out of it?
+2. What are the airlines that have a low sentiment generated from Vader among the domestic and international airlines? How can they improve their customers' experience?
+3. What are the airlines that have a low sentiment generated from TextBlob among the domestic and international airlines? How can they improve their customers' experience?
+4. How are the flights performing according to the satisfaction score given by the travelers for the departments that are crucial during a flight?
+5. How are the flights performing according to the satisfaction score given by the travelers for the Ground Service department?
 
 ## Approach
 
