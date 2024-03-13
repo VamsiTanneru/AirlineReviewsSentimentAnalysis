@@ -15,9 +15,6 @@ The Airlines Reviews Sentiment Analysis project aims to analyze customer satisfa
 ## Data Understanding
 The project utilizes a large dataset of customer reviews encompassing different aspects of airline services such as seat comfort, in-flight entertainment, food and beverages, cabin staff service, Wi-Fi connectivity, and ground services.
 
-## Screenshots of Visualizations/Results
-
-
 ## Technologies
 This project leverages the following technologies:
 - Tableau: Tableau is used for data visualization and analysis, providing interactive and insightful visualizations.
@@ -104,3 +101,13 @@ The Airlines Reviews Sentiment Analysis project follows a structured approach to
 
 By following this structured approach, the project aims to provide actionable insights to airlines, enabling them to enhance customer satisfaction and improve the overall passenger experience.
 
+## Screenshots of Visualizations/Results
+'![](Screenshots/Picture22.png)'
+'![](Screenshots/Picture23.png)'
+'![](Screenshots/Picture24.png)'
+'![](Screenshots/Picture25.png)'
+'![](Screenshots/Picture26.png)'
+'![](Screenshots/Picture27.png)'
+'![](Screenshots/Picture28.png)'
+'![](Screenshots/Picture29.png)'
+'![](Screenshots/Picture30.png)'
