@@ -102,12 +102,12 @@ The Airlines Reviews Sentiment Analysis project follows a structured approach to
 By following this structured approach, the project aims to provide actionable insights to airlines, enabling them to enhance customer satisfaction and improve the overall passenger experience.
 
 ## Screenshots of Visualizations/Results
-'![](Screenshots/Picture22.png)'
-'![](Screenshots/Picture23.png)'
-'![](Screenshots/Picture24.png)'
-'![](Screenshots/Picture25.png)'
-'![](Screenshots/Picture26.png)'
-'![](Screenshots/Picture27.png)'
-'![](Screenshots/Picture28.png)'
-'![](Screenshots/Picture29.png)'
-'![](Screenshots/Picture30.png)'
+![](Screenshots/Picture22.png)
+![](Screenshots/Picture23.png)
+![](Screenshots/Picture24.png)
+![](Screenshots/Picture25.png)
+![](Screenshots/Picture26.png)
+![](Screenshots/Picture27.png)
+![](Screenshots/Picture28.png)
+![](Screenshots/Picture29.png)
+![](Screenshots/Picture30.png)
